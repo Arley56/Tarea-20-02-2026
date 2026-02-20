@@ -1,7 +1,7 @@
 /* Header principal */
 header {                  /* activa Flexbox */
     align-items: center;            /* centra verticalmente */
-    background-color: #333;         /* fondo oscuro */
+    background-color: #2d2e27;         /* fondo oscuro */
     padding: 1em 2em;               /* espacio interno (arriba/abajo y lados) */
     gap: 20px;                      /* espacio entre elementos */
   }
